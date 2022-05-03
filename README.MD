@@ -11,4 +11,5 @@ Simply paste the file `EmatDystThingy.js` file into the web console. And then it
 <br>
 
 #
-Made by: Smallbenji
+Made by: [Smallbenji](https://www.github.com/smallbenji)
+<img src="https://www.ingenting.tk/Assets/img/LogoProjekt/LogoWithColor.png" width="50%">
