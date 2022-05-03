@@ -12,4 +12,4 @@ Simply paste the file `EmatDystThingy.js` file into the web console. And then it
 
 #
 Made by: [Smallbenji](https://www.github.com/smallbenji)
-<img src="https://www.ingenting.tk/Assets/img/LogoProjekt/LogoWithColor.png" width="50%">
+<img src="https://www.ingenting.tk/Assets/img/LogoProjekt/LogoWithColor.png" width="150px">
