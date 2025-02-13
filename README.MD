@@ -1,4 +1,4 @@
-## EMAT HACK
+## EMAT SCRIPTS
 <h4>Some helpful scripts made for Emat</h4>
 
 #
